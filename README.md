@@ -9,7 +9,7 @@
 
 ### Building useful things, learning deeply, and contributing to open source.
 
-[About](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Achievements](#-highlights) · [Connect](#-lets-connect)
+[About](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Connect](#-lets-connect)
 
 </div>
 
@@ -22,11 +22,9 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at IIIT Una.
 - 🌐 Building full-stack applications with **React, JavaScript/TypeScript, Node.js, Express, and MongoDB**.
 - ☕ Exploring **Java, Spring Boot, backend engineering, and databases**.
-- 🤖 Interested in practical ML applications and developer tools.
 - 🧩 Regularly practicing problem-solving with **DSA and competitive programming**.
 - 🌱 Learning by building projects, debugging real issues, and contributing to open source.
 
-> 💡 My goal: write software that is useful, understandable, and reliable—not just code that works once.
 
 ## 🛠️ Tech Stack
 
@@ -59,10 +57,6 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 ML & Data</h3>
-      <p>Python · scikit-learn · TF-IDF · text similarity</p>
-    </td>
-    <td width="50%" valign="top">
       <h3>⚙️ Engineering Tools</h3>
       <p>Git · GitHub · Maven · Docker · Linux · Render · Vercel</p>
     </td>
@@ -73,51 +67,14 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🗺️ GitViewsMap</h3>
       <p>A GitHub profile view badge and visitor-location map, built to make profile traffic more visual.</p>
       <p><strong>Stack:</strong> Node.js · Express · TypeScript · MongoDB · Leaflet</p>
       <a href="https://github.com/Utkarsh-rwt/gitViewsMap"><img src="https://img.shields.io/badge/View%20Project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitViewsMap" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📄 Peer-to-Peer Plagiarism Detector</h3>
-      <p>A text-similarity tool that compares documents using TF-IDF and n-gram features, with a Flask backend.</p>
-      <p><strong>Stack:</strong> Python · Flask · scikit-learn</p>
-      <p><em>Deployed on Render.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 AutoDeck</h3>
-      <p>A web project exploring car comparison and an easy way to compare vehicle details.</p>
-      <p><strong>Focus:</strong> Frontend development · UI</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍲 Recipe Dhaba</h3>
-      <p>A recipe-focused web app built while exploring modern frontend development.</p>
-      <p><strong>Focus:</strong> React · Web UI</p>
-    </td>
   </tr>
 </table>
-
-<details>
-  <summary><strong>🔎 More things I've built and explored</strong></summary>
-  <br />
-
-  - **LeetMetric** — a frontend project for presenting LeetCode statistics.
-  - **E-commerce UI** — a React-based shopping interface.
-  - **GitViewsMap** — visitor tracking, SVG badge generation, and geographic visualization.
-  - **Spring Boot experiments** — Java web development, JSP, Maven, Hibernate, and database integration.
-</details>
-
-## 🏆 Highlights
-
-- 🥉 **3rd Place — PixelForge**, Frontend Development Challenge at Merkai 2026.
-- 🥉 **3rd Place — LLM Jailbreak Challenge**, Institute Day 2025.
-- 📐 Qualified for **PRMO (Pre-Regional Mathematical Olympiad), 2023**.
-- 📈 Scored **97.38 percentile in JEE Main 2025**.
-- 🤝 Working on open-source contributions, including exploring and contributing fixes to developer tooling.
-
 ## 📊 GitHub at a Glance
 
 <div align="center">
