@@ -3,7 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0D9488,100:22C55E&height=190&section=header&text=Utkarsh%20Rawat&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=15" width="100%" alt="Utkarsh Rawat profile banner" />
 
-<a href="https://github.com/Utkarsh-rwt"><img src="https://komarev.com/ghpvc/?username=Utkarsh-rwt&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://gitviewsmap.onrender.com/YOUR_GITHUB_USERNAME">
+  <img src="https://gitviewsmap.onrender.com/badge/YOUR_GITHUB_USERNAME.svg" alt="GitViewsMap Visitor Badge" />
+</a>
 <a href="https://github.com/Utkarsh-rwt?tab=followers"><img src="https://img.shields.io/github/followers/Utkarsh-rwt?style=for-the-badge&logo=github&color=0F766E&label=FOLLOWERS" alt="GitHub followers" /></a>
 <a href="https://github.com/Utkarsh-rwt?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-15803D?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
 
@@ -52,6 +54,6 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Utkarsh-rwt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-rwt&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
 
 </div>
