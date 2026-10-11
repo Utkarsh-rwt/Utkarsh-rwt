@@ -143,7 +143,6 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 <div align="center">
 
 <a href="https://github.com/Utkarsh-rwt"><img src="https://img.shields.io/badge/GitHub-Utkarsh--rwt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 **Open to collaborating on interesting projects, learning from other developers, and contributing to open source.**
 
