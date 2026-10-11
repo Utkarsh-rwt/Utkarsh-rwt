@@ -42,37 +42,6 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Development</h3>
-      <p>React · Vite · Tailwind CSS · JavaScript · TypeScript · Node.js · Express · REST APIs</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Backend & Databases</h3>
-      <p>Java · Spring Boot · Flask · MongoDB · PostgreSQL · SQL · Hibernate</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Engineering Tools</h3>
-      <p>Git · GitHub · Maven · Docker · Linux · Render · Vercel</p>
-    </td>
-  </tr>
-</table>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🗺️ GitViewsMap</h3>
-      <p>A GitHub profile view badge and visitor-location map, built to make profile traffic more visual.</p>
-      <p><strong>Stack:</strong> Node.js · Express · TypeScript · MongoDB · Leaflet</p>
-      <a href="https://github.com/Utkarsh-rwt/gitViewsMap"><img src="https://img.shields.io/badge/View%20Project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitViewsMap" /></a>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub at a Glance
 
