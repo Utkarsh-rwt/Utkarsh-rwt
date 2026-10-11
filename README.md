@@ -34,7 +34,7 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,flask,spring&theme=dark" alt="React, Vite, Tailwind CSS, Node.js, Express, Flask, Spring" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,java,spring,hibernate&theme=dark" alt="React, Vite, Tailwind CSS, Node.js, Express, Java, Spring Boot, Hibernate" />
 
 **Databases, Tools & Platforms**
 
@@ -53,24 +53,5 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 <img width="90%" src="https://streak-stats.demolab.com?user=Utkarsh-rwt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-rwt&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-## 🎯 Currently Focused On
-
-- Building stronger backend systems and learning **Spring Boot**.
-- Improving DSA and problem-solving consistency.
-- Making more meaningful open-source contributions.
-- Building projects that combine clean UI with solid backend design.
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Utkarsh-rwt"><img src="https://img.shields.io/badge/GitHub-Utkarsh--rwt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-
-**Open to collaborating on interesting projects, learning from other developers, and contributing to open source.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0D9488,100:22C55E&height=100&section=footer" width="100%" alt="" />
 
 </div>
