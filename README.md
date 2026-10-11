@@ -3,9 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0D9488,100:22C55E&height=190&section=header&text=Utkarsh%20Rawat&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=15" width="100%" alt="Utkarsh Rawat profile banner" />
 
-
-<a href="https://github.com/Utkarsh-rwt">
-  <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" height="28" align="middle" alt="Profile views" />
+<a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
+  <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 
 ### Building useful things, learning deeply, and contributing to open source.
