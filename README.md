@@ -9,7 +9,6 @@
 
 ### Building useful things, learning deeply, and contributing to open source.
 
-[About](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Connect](#-lets-connect)
 
 </div>
 
@@ -24,7 +23,6 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 - ☕ Exploring **Java, Spring Boot, backend engineering, and databases**.
 - 🧩 Regularly practicing problem-solving with **DSA and competitive programming**.
 - 🌱 Learning by building projects, debugging real issues, and contributing to open source.
-
 
 ## 🛠️ Tech Stack
 
@@ -75,6 +73,7 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
     </td>
   </tr>
 </table>
+
 ## 📊 GitHub at a Glance
 
 <div align="center">
