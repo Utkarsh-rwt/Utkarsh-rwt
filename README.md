@@ -40,13 +40,3 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,linux,vscode,idea&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Git, GitHub, Docker, Linux, VS Code, IntelliJ IDEA" />
 
 </div>
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-rwt&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Utkarsh-rwt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
