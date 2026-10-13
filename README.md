@@ -35,10 +35,6 @@ I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una*
 
 </div>
 
-## GitHub Stats
+## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-rwt&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rwt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Utkarsh-rwt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rwt&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Most used programming languages" />
