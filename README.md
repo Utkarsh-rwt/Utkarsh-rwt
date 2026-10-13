@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0D9488,100:22C55E&height=190&section=header&text=Utkarsh%20Rawat&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=15" width="100%" alt="Utkarsh Rawat profile banner" />
+<img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="100%" alt="Animated developer banner" />
 
 <a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
   <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
