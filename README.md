@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT Una** who enjoys turning ideas into working software.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at IIIT Una.
-- 🌐 Building full-stack applications with **React, JavaScript/TypeScript, Node.js, Express, MongoDB, and Spring Boot**.
-- ☕ Exploring **Java, backend engineering, and databases**.
-- 🧩 Regularly practicing problem-solving with **DSA and competitive programming**.
-- 🌱 Learning by building projects, debugging real issues, and contributing to open source.
+- Pursuing **B.Tech in Computer Science & Engineering** at IIIT Una.
+- Building full-stack applications with **React, JavaScript/TypeScript, Node.js, Express, MongoDB, and Spring Boot**.
+- Exploring **Java, backend engineering, and databases**.
+- Regularly practicing problem-solving with **DSA and competitive programming**.
+- Learning by building projects, debugging real issues, and contributing to open source.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
