@@ -3,10 +3,6 @@
 
 <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="100%" alt="Animated developer banner" />
 
-<a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
-  <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
-</a>
-
 ### Building useful things, learning deeply, and contributing to open source.
 
 </div>
@@ -40,3 +36,9 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,linux,vscode,idea&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Git, GitHub, Docker, Linux, VS Code, IntelliJ IDEA" />
 
 </div>
+
+---
+
+<a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
+  <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
+</a>
