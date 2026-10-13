@@ -37,4 +37,4 @@ I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una*
 
 ## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rwt&layout=wide&bg_color=00000000&hide_border=true&langs_count=6" width="100%" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rwt&layout=compact&bg_color=00000000&hide_border=true&langs_count=6" width="100%" alt="Most used programming languages" />
