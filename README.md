@@ -9,7 +9,6 @@
 
 ### Building useful things, learning deeply, and contributing to open source.
 
-
 </div>
 
 ---
@@ -19,8 +18,8 @@
 Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT Una** who enjoys turning ideas into working software.
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at IIIT Una.
-- 🌐 Building full-stack applications with **React, JavaScript/TypeScript, Node.js, Express, and MongoDB**.
-- ☕ Exploring **Java, Spring Boot, backend engineering, and databases**.
+- 🌐 Building full-stack applications with **React, JavaScript/TypeScript, Node.js, Express, MongoDB, and Spring Boot**.
+- ☕ Exploring **Java, backend engineering, and databases**.
 - 🧩 Regularly practicing problem-solving with **DSA and competitive programming**.
 - 🌱 Learning by building projects, debugging real issues, and contributing to open source.
 
@@ -42,16 +41,12 @@ Hey! I'm **Utkarsh Rawat**, a Computer Science & Engineering student at **IIIT U
 
 </div>
 
-
 ## 📊 GitHub at a Glance
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-rwt&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rwt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Utkarsh-rwt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-
 
 </div>
