@@ -33,6 +33,8 @@ I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una*
 
 ---
 
-<a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
-  <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
-</a>
+<div align="center">
+  <a href="https://gitviewsmap.onrender.com/Utkarsh-rwt">
+    <img src="https://gitviewsmap.onrender.com/badge/Utkarsh-rwt.svg" alt="GitViewsMap Visitor Badge" />
+  </a>
+</div>
