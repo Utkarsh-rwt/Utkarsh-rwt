@@ -9,7 +9,7 @@
 
 ---
 
-I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una** interested in full-stack development, backend engineering, and open-source contributions. I build applications using **React, TypeScript, Node.js, Express, MongoDB, and Spring Boot**, while strengthening my skills in **Java, databases, DSA, and competitive programming**.
+   I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una** interested in full-stack development, backend engineering, and open-source contributions. I build applications using **React, TypeScript, Node.js, Express, MongoDB, and Spring Boot**, while strengthening my skills in **Java, databases, DSA, and competitive programming**.
 
 <div align="center">
 
