@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="75%" alt="3D GitHub contribution blocks" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="75%" alt="3D GitHub contribution graph" />
 
 ### Building useful things, learning deeply, and contributing to open source.
 
