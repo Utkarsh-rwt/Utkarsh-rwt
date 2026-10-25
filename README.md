@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="100%" alt="Animated developer banner" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
 
 ### Building useful things, learning deeply, and contributing to open source.
 
@@ -9,7 +9,7 @@
 
 ---
 
-   I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una** interested in full-stack development, backend engineering, and open-source contributions. I build applications using **React, TypeScript, Node.js, Express, MongoDB, and Spring Boot**, while strengthening my skills in **Java, databases, DSA, and competitive programming**.
+I'm **Utkarsh Rawat**, a Computer Science and Engineering student at **IIIT Una** interested in full-stack development, backend engineering, and open-source contributions. I build applications using **React, TypeScript, Node.js, Express, MongoDB, and Spring Boot**, while strengthening my skills in **Java, databases, DSA, and competitive programming**.
 
 <div align="center">
 
