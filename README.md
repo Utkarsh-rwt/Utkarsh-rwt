@@ -7,7 +7,7 @@
     <td width="42%" valign="top">
       <h3>Tech Stack</h3>
       <p><strong>Languages</strong></p>
-      <img src="https://skillicons.dev/icons?i=ts,html,css,cpp,java,python,js&theme=dark&size=28"  alt="C++, Java, Python, JavaScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,js&theme=dark&size=28"  alt="C++, Java, Python, JavaScript" /><br/>
       <p><strong>Frontend & Backend</strong></p>
       <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark&size=28" alt="React, Vite, Tailwind CSS, Node.js" />
       <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark&size=28" alt="Express, Java, Spring Boot, Hibernate" />
