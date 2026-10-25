@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="75%" alt="3D GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-rwt&theme=github-compact&hide_border=true&area=true" width="90%" alt="GitHub contribution activity graph" />
 
 ### Building useful things, learning deeply, and contributing to open source.
 
