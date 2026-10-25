@@ -4,19 +4,16 @@
     <td width="60%" align="center" valign="middle">
       <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="40%" valign="top">
       <h3>Tech Stack</h3>
       <p><strong>Languages</strong></p>
-      <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark&size=28" alt="C++, Java, Python, JavaScript" /><br/>
-      <img src="https://skillicons.dev/icons?i=ts,html,css&theme=dark&size=28" alt="TypeScript, HTML, CSS" />
+      <img src="https://skillicons.dev/icons?i=ts,html,css,cpp,java,python,js&theme=dark&size=28"  alt="C++, Java, Python, JavaScript" /><br/>
       <p><strong>Frontend & Backend</strong></p>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs&theme=dark&size=28" alt="React, Vite, Tailwind CSS, Node.js" /><br/>
-      <img src="https://skillicons.dev/icons?i=express,java,spring,hibernate&theme=dark&size=28" alt="Express, Java, Spring Boot, Hibernate" />
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark&size=28" alt="React, Vite, Tailwind CSS, Node.js" />
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark&size=28" alt="Express, Java, Spring Boot, Hibernate" />
       <p><strong>Databases, Tools & Platforms</strong></p>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&size=28" alt="MongoDB, PostgreSQL, MySQL" /><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark&size=28" alt="Git, GitHub, Docker" /><br/>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,idea&theme=dark&size=28" alt="Linux, VS Code, IntelliJ IDEA" />
-    </td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,linux&theme=dark&size=28" alt="MongoDB, PostgreSQL, MySQL" />
+     </td>
   </tr>
 </table>
 
