@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE LAYOUT ===================== -->
 <table>
   <tr>
-    <td width="58%" align="center" valign="middle">
+    <td width="64%" align="center" valign="middle">
       <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
     </td>
     <td width="42%" valign="top">
