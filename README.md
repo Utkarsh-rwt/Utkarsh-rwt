@@ -1,10 +1,10 @@
 <!-- ===================== PROFILE LAYOUT ===================== -->
 <table>
   <tr>
-    <td width="60%" align="center" valign="middle">
+    <td width="58%" align="center" valign="middle">
       <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
     </td>
-    <td width="40%" valign="top">
+    <td width="42%" valign="top">
       <h3>Tech Stack</h3>
       <p><strong>Languages</strong></p>
       <img src="https://skillicons.dev/icons?i=ts,html,css,cpp,java,python,js&theme=dark&size=28"  alt="C++, Java, Python, JavaScript" /><br/>
