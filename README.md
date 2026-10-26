@@ -9,7 +9,11 @@
       <p><strong>Languages</strong></p>
       <img src="https://skillicons.dev/icons?i=html,css,cpp,js&theme=dark&size=28" alt="C++, JavaScript, HTML, CSS" /><br/>
       <p><strong>Frontend & Backend</strong></p>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,spring,hibernate&theme=dark&size=28" alt="React, Vite, Tailwind CSS, Node.js, Express, Spring Boot, Hibernate" />
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark&size=28" alt="React, Vite, Tailwind CSS, Node.js, Express" />
+      <p><strong>Spring & ORM</strong></p>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark&size=28" alt="Spring and Hibernate" />
+      <p><strong>Spring AOP</strong></p>
+      <p>Aspect-Oriented Programming with Spring</p>
       <p><strong>Databases, Tools & Platforms</strong></p>
       <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,linux&theme=dark&size=28" alt="MongoDB, PostgreSQL, MySQL, Docker, Linux" />
      </td>
